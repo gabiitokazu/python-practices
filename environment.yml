@@ -1,0 +1,31 @@
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - basemap=1.0.7=np113py36_0
+  - bokeh=0.12.15=py36_0
+  - cython
+  - numpy=1.13.3=py36hdbf6ddf_4
+  - pillow=5.1.0=py36h3deb7b8_0
+  - scikit-image=0.13.1=py36h14c3975_1
+  - scikit-learn
+  - scipy=1.0.1=py36hfc37229_0
+  - sympy=1.1.1=py36hc6d1c1c_0
+  - babel=2.5.3=py36_0
+  - ipyparallel
+  - ipywidgets
+  - ipykernel=4.8.2=py36_0
+  - ipython=6.3.0=py36_0
+  - ipython_genutils=0.2.0=py36hb52b0d5_0
+  - jupyter_client=5.2.3=py36_0
+  - jupyter_core=4.4.0=py36h7c827e3_0
+  - jupyterlab=0.31.12=py36_0
+  - jupyterlab_launcher=0.10.5=py36_0
+  - matplotlib=2.2.2=py36h0e671d2_1
+  - notebook=5.4.1=py36_0
+  - numpydoc=0.8.0=py36_0
+  - pandas=0.22.0=py36hf484d3e_0
+  - python=3.6.5=hc3d631a_0
+  - python-dateutil=2.7.2=py36_0
+  - seaborn=0.8.1=py36hfad7ec4_0
+  - spyder=3.2.8=py36_0
